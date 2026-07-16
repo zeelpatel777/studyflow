@@ -72,37 +72,37 @@ StudyFlow provides an intuitive platform where students can:
 
 ## Login
 
-![Login](images/login.png)
+![Login](images/login.png.jpeg)
 
 ---
 
 ## Dashboard
 
-![Dashboard](images/dashboard.png)
+![Dashboard](images/dashboard.png.png)
 
 ---
 
 ## Task Management
 
-![Task Management](images/task-page.png)
+![Task Management](images/task-page.png.png)
 
 ---
 
 ## Focus Mode
 
-![Focus Mode](images/focus-mode.png)
+![Focus Mode](images/focus-mode.png.png)
 
 ---
 
 ## Reset Password
 
-![Reset Password](images/reset-password.png)
+![Reset Password](images/reset-password.png.png)
 
 ---
 
 ## Profile
 
-![Profile](images/profile.png)
+![Profile](images/profile.png.jpeg)
 
 ---
 
