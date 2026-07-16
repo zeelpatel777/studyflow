@@ -96,7 +96,7 @@ StudyFlow provides an intuitive platform where students can:
 
 ## Reset Password
 
-![Reset Password](images/reset-password.png.jpeg)
+![Reset Password](images/reset-password.png.png)
 
 ---
 
