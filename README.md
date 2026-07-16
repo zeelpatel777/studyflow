@@ -66,7 +66,7 @@ StudyFlow provides an intuitive platform where students can:
 
 ## Cover
 
-![Cover](images/cover.png)
+![Cover](images/cover.png.png)
 
 ---
 
@@ -90,13 +90,13 @@ StudyFlow provides an intuitive platform where students can:
 
 ## Focus Mode
 
-![Focus Mode](images/focus-mode.png.png)
+![Focus Mode](images/focus-mode.png.jpeg)
 
 ---
 
 ## Reset Password
 
-![Reset Password](images/reset-password.png.png)
+![Reset Password](images/reset-password.png.jpeg)
 
 ---
 
